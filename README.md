@@ -2,6 +2,8 @@
 
 #### I'm a Frontend developer from Lisbon, passionate for learning, collaborating, and developing apps with purpose. Looking for challenges, either professional or collaborations. ✌
 
+[![Linkedin Badge](https://img.shields.io/badge/-rodrigojmoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-jorge-moura/)](https://www.linkedin.com/in/rodrigo-jorge-moura/)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigojorgemoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigojorgemoura@gmail.com)](mailto:rodrigojorgemoura@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-rodrigojmr_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rodrigojmr_)](https://twitter.com/rodrigojmr_)
 
 
 ### Languages and Tools:
