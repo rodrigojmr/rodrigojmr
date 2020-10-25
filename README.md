@@ -28,5 +28,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojmr&layout=compact&hide_title=true">
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rodrigojmr">
