@@ -7,11 +7,13 @@
 
 
 ### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=postgresql)
 <br>
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
