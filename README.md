@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 
-#### I'm a Frontend developer from Lisbon, passionate for learning, collaborating, and developing apps with purpose. Looking for challenges, either professional or collaborations. ✌
+#### I'm a Frontend developer from Lisbon working at [Inetum](https://www.inetum.com/en) on [Peacock](https://www.peacocktv.com/)'s streaming service.
 
 [![Linkedin Badge](https://img.shields.io/badge/-rodrigojmoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-jorge-moura/)](https://www.linkedin.com/in/rodrigo-jorge-moura/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigojorgemoura@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigojorgemoura@gmail.com)](mailto:rodrigojorgemoura@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-rodrigojmr_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rodrigojmr_)](https://twitter.com/rodrigojmr_)
 
+## About Me
+
+- 🌱 I’m currently learning: [Svelte(Kit)](https://kit.svelte.dev/) + [Remix](https://remix.run/).
+- 🤔 What I want to learn next: Getting really good at React with [Epic React](https://epicreact.dev/) and testing with [Testing Javascript](https://testingjavascript.com/).
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I used to organize community and gaming events. 🎮
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-blue?style=flat-square&logo=next.js)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
