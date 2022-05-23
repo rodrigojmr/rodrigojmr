@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 🌱 I’m currently working on: NBCU's streaming app Peacock - used to be React, now it's [Lightning](https://lightningjs.io/).
+- 🔨 I’m currently working on: NBCU's streaming app Peacock - used to be React, now it's [Lightning](https://lightningjs.io/).
 - 🤔 What I want to learn next: Getting really good at React with [Epic React](https://epicreact.dev/) and testing with [Testing Javascript](https://testingjavascript.com/).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to organize community and gaming events. 🎮
