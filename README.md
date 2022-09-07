@@ -34,8 +34,5 @@
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigojmr&hide=stars,issues&show_icons=true&hide_title=true&theme=algolia"> 
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojmr&layout=compact&hide_title=true">
 </a>
